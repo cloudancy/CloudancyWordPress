@@ -1,4 +1,4 @@
-# WordPress compatible with Cloud Foundry
+# WordPress compatible with Cloudancy
 
 Steps to get the application to run:
 
@@ -10,4 +10,4 @@ Steps to get the application to run:
 6. <code>vmc create-service mysql --bind wordpresscf</code>
 7. Visit http://wordpresscf.vcap.me and enjoy your Wordpress install!
 
-Make sure your Cloud Foundry end-point is compatible with PHP. Right now the only service that can do that is AppFog.com
+
